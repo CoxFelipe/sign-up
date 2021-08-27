@@ -1,5 +1,4 @@
 import React from "react";
-import { StyleSheet } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import SignUp from "./src/views/signUp";
@@ -24,9 +23,5 @@ const App = () => {
     </NavigationContainer>
   );
 };
-
-const style = StyleSheet.create({
-  texto: { textAlign: "center", color: "white" },
-});
 
 export default App;
