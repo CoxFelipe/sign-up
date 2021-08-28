@@ -22,7 +22,7 @@ npm install
 
 ## Para ejecutar la aplicación.
 
-Se debe iniciar el servidor de desarrollo de Expo al nivel de raíz ejecutar el siguiente comamdo:
+Se debe iniciar el servidor de desarrollo de Expo al nivel de raíz ejecutar el siguiente comando:
 ```
 expo start o npm start
 ```
