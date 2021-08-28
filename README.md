@@ -24,7 +24,11 @@ npm install
 
 Se debe iniciar el servidor de desarrollo de Expo al nivel de raíz ejecutar el siguiente comando:
 ```
-expo start o npm start
+expo start
+```
+o
+```
+npm start
 ```
 Abrirá automáticamente el navegador de lo contrario en el navegador ir a http://127.0.0.1:19002
 
