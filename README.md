@@ -5,7 +5,7 @@ Proyecto
 
 Se debe clonar el repositorio del proyecto de manera local.
 
-Navegar hasta la raíz donde se encuentran los archivos package.json, app.json, App.js, etc.
+Navegar hasta la raíz del proyecto donde se encuentran los archivos package.json, app.json, App.js, etc.
  
 
 ## Instalar expo-cli Para poder correr la aplicacion y generar build.
@@ -15,14 +15,14 @@ npm install --global expo-cli
 
 ## Dependencias del proyecto.
 
-Se debe correr el siguiente comando a nivel de raíz.
+Se debe correr el siguiente comando a nivel de raíz del proyecto.
 ```
 npm install
 ```
 
 ## Para ejecutar la aplicación.
 
-Se debe iniciar el servidor de desarrollo de Expo al nivel de raíz ejecutar el siguiente comando:
+Se debe iniciar el servidor de desarrollo de Expo al nivel raíz del proyecto ejecutar el siguiente comando:
 ```
 expo start
 ```
