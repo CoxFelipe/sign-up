@@ -2,8 +2,9 @@
 Proyecto
 
 Instalar command-line-tools y dependencias.
-1 Se debe clonar el repositorio del proyecto de manera local.
-2 Navegar hasta la raíz donde se encuentran los archivos package.json, app.json, App.js, etc.
+
+Se debe clonar el repositorio del proyecto de manera local.
+Navegar hasta la raíz donde se encuentran los archivos package.json, app.json, App.js, etc.
  
 Instalar expo-cli Para poder correr la aplicacion y generar build.
 npm install --global expo-cli
